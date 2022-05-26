@@ -6,4 +6,6 @@
     } else {
         header('location: login.php');
     }
+
+    echo "cambio"
 ?>
