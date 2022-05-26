@@ -9,4 +9,6 @@
 
     echo "cambio"
         echo "test"
+        
+     echo "otro"
 ?>
